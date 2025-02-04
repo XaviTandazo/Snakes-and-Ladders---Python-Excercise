@@ -8,15 +8,19 @@
 ## Pruebas Implementadas
 ### **US 1 - Mover la Ficha en el Tablero**
 ✅ **UAT1**: La ficha comienza en la casilla 1.
+
 ✅ **UAT2**: Si la ficha se mueve **3** espacios desde la casilla 1, termina en la casilla **4**.
+
 ✅ **UAT3**: Si la ficha se mueve **3** y luego **4** espacios, termina en la casilla **8**.
 
 ### **US 2 - Ganar el Juego**
 ✅ **UAT1**: Si la ficha está en la casilla **97** y avanza **3** espacios, llega a **100** y gana.
+
 ✅ **UAT2**: Si la ficha está en la casilla **97** y avanza **4** espacios, permanece en **97** y **no gana**.
 
 ### **US 3 - Movimiento con Dado**
 ✅ **UAT1**: El resultado del dado está entre **1 y 6**.
+
 ✅ **UAT2**: Si el dado muestra un **4**, la ficha avanza **4** espacios.
 
 ## 📌 Estructura y Clases del Código
