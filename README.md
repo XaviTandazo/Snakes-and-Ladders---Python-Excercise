@@ -1,4 +1,6 @@
-# 🎲 Backend de Snakes and Ladders
+# 🎲 EJERCICIO BAYTEQ: Snakes and Ladders
+- El en el ejercicio no se menciona la necesidad de implementar serpientes o escaleras. Se asume que este proyecto sirve como un punto de partida para un posterior desarrollo fiel al concepto del juego.
+- El proyecto sigue siendo un juego de tablero, pero sin las características antes mencionadas, puesto que se sigue al margen lo estipulado en el pdf.
 
 ## Características
 - Cada jugador comienza en la casilla **1**.
