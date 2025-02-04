@@ -33,5 +33,5 @@
 │── README.md        
 ```
 
-**Autor:** [Xavier Sebastián Tandazo Cobo]
+Xavier Sebastián Tandazo Cobo
 
